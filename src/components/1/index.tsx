@@ -64,7 +64,7 @@ export const FirstSection = () => {
         </div>
         <div className='bg-dark text-white font-raj font-medium py-4 pl-6 text-lg hover:brightness-125  flex gap-3 items-center hover:text-green-500 transition-all duration-300 cursor-pointer'>
           <GiSandsOfTime className='text-3xl transition-colors duration-300' />
-          <h1 className='text-white'>2 Years Coding</h1>
+          <h1 className='text-white'>5 Years Coding</h1>
         </div>
         <div className='bg-dark text-white font-raj font-medium py-4 pl-6 text-lg hover:brightness-125  flex gap-3 items-center hover:text-green-500 transition-all duration-300 cursor-pointer'>
           <SiApachekafka className='text-3xl transition-colors duration-300' />
