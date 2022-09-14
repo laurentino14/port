@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Laurentino - Full Cycle Developer</title>
+        <title>Laurentino - Full Stack Developer</title>
       </Head>
       {/* <Header /> */}
       <FirstSection />
