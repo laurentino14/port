@@ -14,15 +14,9 @@ export const FirstSection = () => {
         <h1 className='font-raj font-bold text-6xl xl:text-8xl -ml-1'>
           LAURENTINO
         </h1>
-        <h2 className='font-raj font-medium text-4xl'>Full Cycle Developer</h2>
-        <p className='w-96 text-justify font-roboto'>
-          <strong className='font-raj font-bold text-xl text-'>
-            Full Cycle
-          </strong>{" "}
-          corresponds to developers who have skills and understand tools to
-          architect, develop, test, deploy and eventually monitor the
-          application.
-        </p>
+        <h2 className='font-raj font-medium text-4xl'>Full Stack Developer</h2>
+       
+       
         {/* <div className='bg-dark h-40 flex items-center justify-around mb-20 mt-20 drop-shadow-2xl rounded-md'>
           <div className='bg-green-500 rounded-lg flex flex-col items-center justify-center w-40 h-40 -translate-y-12 shadow-xl shadow-dark hover:-translate-y-16 delay-200 transition-transform'>
             <SiSpeedtest className='text-dark text-6xl' />
@@ -64,7 +58,7 @@ export const FirstSection = () => {
         </div>
         <div className='bg-dark text-white font-raj font-medium py-4 pl-6 text-lg hover:brightness-125  flex gap-3 items-center hover:text-green-500 transition-all duration-300 cursor-pointer'>
           <GiSandsOfTime className='text-3xl transition-colors duration-300' />
-          <h1 className='text-white'>5 Years Coding</h1>
+          <h1 className='text-white'>3+ Years Coding</h1>
         </div>
         <div className='bg-dark text-white font-raj font-medium py-4 pl-6 text-lg hover:brightness-125  flex gap-3 items-center hover:text-green-500 transition-all duration-300 cursor-pointer'>
           <SiApachekafka className='text-3xl transition-colors duration-300' />
